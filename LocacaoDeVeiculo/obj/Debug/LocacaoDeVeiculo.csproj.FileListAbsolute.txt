@@ -1,0 +1,14 @@
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\bin\Debug\LocacaoDeVeiculo.exe.config
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\bin\Debug\LocacaoDeVeiculo.exe
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\bin\Debug\LocacaoDeVeiculo.pdb
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.csproj.AssemblyReference.cache
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.csproj.CoreCompileInputs.cache
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.exe
+C:\DotNET\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.pdb
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\bin\Debug\LocacaoDeVeiculo.exe.config
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\bin\Debug\LocacaoDeVeiculo.exe
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\bin\Debug\LocacaoDeVeiculo.pdb
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.csproj.AssemblyReference.cache
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.csproj.CoreCompileInputs.cache
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.exe
+D:\wp_VS\LocacaoDeVeiculo\LocacaoDeVeiculo\obj\Debug\LocacaoDeVeiculo.pdb
